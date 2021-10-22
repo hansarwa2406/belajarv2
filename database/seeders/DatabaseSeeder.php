@@ -20,7 +20,7 @@ class DatabaseSeeder extends Seeder
         User::create([
             'name' => 'Han Sarwa',
             'username' => 'haruwa_desu',
-            'email' => 'hansaruwa24@gmail.com',
+            'email' => 'hansuwo@gmail.com',
             'password' => bcrypt('123456')
         ]); 
         
